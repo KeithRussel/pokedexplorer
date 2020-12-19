@@ -2,6 +2,8 @@
 
 p0kedexplorer use to search all pokemons you want.
 
+![](pokemon.gif)
+
 ## Installation
 
 If you want to run to your local make sure you have nodejs on your desktop/laptop.
