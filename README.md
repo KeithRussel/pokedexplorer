@@ -1,6 +1,7 @@
 # p0kedexplorer
 
 p0kedexplorer use to search all pokemons you want.
+Check the [sample link](https://p0kedexplorer.netlify.app/)
 
 ![](pokemon.gif)
 
